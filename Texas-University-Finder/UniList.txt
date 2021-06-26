@@ -1,0 +1,74 @@
+Name: Abilene Christian University Address: 1600 Campus Ct, Abilene, TX 79601
+Name: Amberton University Address: 1700 Eastgate Dr, Garland, TX 75041
+Name: Angelo State University Address: 2601 W Ave N, San Angelo, TX 76909
+Name: Arlington Baptist University Address: 3001 W Division St, Arlington, TX 76012
+Name: Baylor University Address: 1311 S 5th St, Waco, TX 76706
+Name: Concordia University Texas Address: 11400 Concordia University Dr, Austin, TX 78726
+Name: Dallas Baptist University Address: 3000 Mountain Creek Pkwy, Dallas, TX 75211
+Name: East Texas Baptist University Address: 1 Tiger Dr, Marshall, TX 75670
+Name: Hardin-Simmons University Address: 2200 Hickory St, Abilene, TX 79601
+Name: Houston Baptist University Address: 7502 Fondren Rd, Houston, TX 77074
+Name: Howard Payne University Address: 1000 Fisk St, Brownwood, TX 76801
+Name: Huston-Tillotson University Address: 900 Chicon St, Austin, TX 78702
+Name: Lamar University Address: 4400 S M L King Jr Pkwy, Beaumont, TX 77705
+Name: LeTourneau University Address: 2100 S Mobberly Ave, Longview, TX 75602
+Name: Lubbock Christian University Address: 5601 19th St, Lubbock, TX 79407
+Name: McMurry University Address: 1400 Sayles Blvd, Abilene, TX 79697
+Name: Midwestern State University Address: 3410 Taft Blvd, Wichita Falls, TX 76308
+Name: Our Lady of the Lake University Address: 411 SW 24th St, San Antonio, TX 78207
+Name: Parker University Address: 2540 Walnut Hill Ln, Dallas, TX 75229
+Name: Prairie View A&M University Address: 100 University Dr, Prairie View, TX 77446
+Name: Rice University Address: 6100 Main St, Houston, TX 77005
+Name: Sam Houston State University Address: 1905 University Ave, Huntsville, TX 77340
+Name: Schreiner University Address: 2100 Memorial Blvd, Kerrville, TX 78028
+Name: Southern Methodist University Address: 6101 Bishop Blvd, Dallas, TX 75205
+Name: Southwestern Adventist University Address: 100 W Hillcrest St, Keene, TX 76059
+Name: Southwestern Assemblies of God University Address: 1200 Sycamore St, Waxahachie, TX 75165
+Name: Southwestern University Address: 1001 E University Ave, Georgetown, TX 78626
+Name: St. Edward's University Address: 3001 S Congress Ave, Austin, TX 78704
+Name: St. Mary's University Address: 1 Camino Santa Maria, San Antonio, TX 78228
+Name: Stephen F. Austin State University Address: 2102 Alumni Dr, Nacogdoches, TX 75962
+Name: Sul Ross State University Address: 79830 US-90, Alpine, TX 79830
+Name: Tarleton State University Address: 1333 W Washington St, Stephenville, TX 76401
+Name: Texas A&M International University Address: 5201 University Blvd, Laredo, TX 78041
+Name: Texas A&M University Address: 400 Bizzell St, College Station, TX 77843
+Name: Texas A&M University at Galveston Address: 200 Seawolf Pkwy, Galveston, TX 77554
+Name: Texas A&M University-Central Texas - KILLEEN Address: 1001 Leadership Pl, Killeen, TX 76549
+Name: Texas A&M University-Commerce Address: 2200 Campbell St, Commerce, TX 75428
+Name: Texas A&M University-Corpus Christi Address: 6300 Ocean Dr, Corpus Christi, TX 78412
+Name: Texas A&M University-Kingsville Address: 700 University Blvd, Kingsville, TX 78363
+Name: Texas A&M University-San Antonio Address: One University Way, San Antonio, TX 78224
+Name: Texas A&M University-Texarkana Address: 7101 University Ave, Texarkana, TX 75503
+Name: Texas Christian University Address: 2800 S University Dr, Fort Worth, TX 76129
+Name: Texas Lutheran University Address: 1000 W Court St, Seguin, TX 78155
+Name: Texas Southern University Address: 3100 Cleburne St, Houston, TX 77004
+Name: Texas State University Address: 601 University Dr, San Marcos, TX 78666
+Name: Texas Tech University Address: 2500 Broadway, Lubbock, TX 79409
+Name: Texas Wesleyan University Address: 1201 Wesleyan St, Fort Worth, TX 76105
+Name: Texas Woman's University Address: 304 Administration Dr, Denton, TX 76204
+Name: The University of Texas - Rio Grande Valley - Edinburg Address: 1201 W University Dr, Edinburg, TX 78539
+Name: The University of Texas at Arlington Address: 701 S Nedderman Dr, Arlington, TX 76019
+Name: The University of Texas at Austin Address: Austin, TX 78712
+Name: The University of Texas at Dallas Address: 800 W Campbell Rd, Richardson, TX 75080
+Name: The University of Texas at El Paso Address: 500 W University Ave, El Paso, TX 79968
+Name: The University of Texas at San Antonio Address: 1 UTSA Circle, San Antonio, TX 78249
+Name: The University of Texas at Tyler Address: 3900 University Blvd, Tyler, TX 75799
+Name: The University of Texas Permian Basin Address: 4901 E University Blvd, Odessa, TX 79762
+Name: Trinity University Address: 1 Trinity Pl, San Antonio, TX 78212
+Name: University of Dallas Address: 1845 E Northgate Dr, Irving, TX 75062
+Name: University of Houston Address: 4800 Calhoun Rd, Houston, TX 77004
+Name: University of Houston-Clear Lake Address: 2700 Bay Area Blvd, Houston, TX 77058
+Name: University of Houston-Downtown Address:  1 Main St, Houston, TX 77002
+Name: University of Houston-Victoria Address: 3007 N Ben Wilson St, Victoria, TX 77901
+Name: University of Mary Hardin-Baylor Address: 900 College St, Belton, TX 76513
+Name: University of North Texas Address: 1155 Union Cir, Denton, TX 76203
+Name: University of North Texas at Dallas Address: 7300 University Hills Blvd, Dallas, TX 75241
+Name: University of St. Thomas Address: 3800 Montrose Blvd, Houston, TX 77006
+Name: University of The Incarnate Word Address: 4301 Broadway, San Antonio, TX 78209
+Name: Wayland Baptist University Address: 4110 Call Field Rd, Wichita Falls, TX 76308
+Name: West Texas A&M University Address: 2501 4th Ave, Canyon, TX 79016
+
+
+
+
+

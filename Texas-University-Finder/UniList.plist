@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Abilene Christian University</key>
+	<string>1600 Campus Ct, Abilene, TX 79601</string>
+	<key>Amberton University</key>
+	<string>1700 Eastgate Dr, Garland, TX 75041</string>
+	<key>Angelo State University</key>
+	<string>2601 W Ave N, San Angelo, TX 76909</string>
+	<key>Arlington Baptist University</key>
+	<string>3001 W Division St, Arlington, TX 76012</string>
+	<key>Baylor University</key>
+	<string>1311 S 5th St, Waco, TX 76706</string>
+	<key>Concordia University Texas</key>
+	<string>11400 Concordia University Dr, Austin, TX 78726</string>
+	<key>Dallas Baptist University</key>
+	<string>3000 Mountain Creek Pkwy, Dallas, TX 75211</string>
+	<key>East Texas Baptist University</key>
+	<string>1 Tiger Dr, Marshall, TX 75670</string>
+	<key>Hardin-Simmons University</key>
+	<string>2200 Hickory St, Abilene, TX 79601</string>
+	<key>Houston Baptist University</key>
+	<string>7502 Fondren Rd, Houston, TX 77074</string>
+	<key>Howard Payne University</key>
+	<string>1000 Fisk St, Brownwood, TX 76801</string>
+	<key>Huston-Tillotson University</key>
+	<string>900 Chicon St, Austin, TX 78702</string>
+	<key>Lamar University</key>
+	<string>4400 S M L King Jr Pkwy, Beaumont, TX 77705</string>
+	<key>LeTourneau University</key>
+	<string>2100 S Mobberly Ave, Longview, TX 75602</string>
+	<key>Lubbock Christian University</key>
+	<string>5601 19th St, Lubbock, TX 79407</string>
+	<key>McMurry University</key>
+	<string>1400 Sayles Blvd, Abilene, TX 79697</string>
+	<key>Midwestern State University</key>
+	<string>3410 Taft Blvd, Wichita Falls, TX 76308</string>
+	<key>Our Lady of the Lake University</key>
+	<string>411 SW 24th St, San Antonio, TX 78207</string>
+	<key>Parker University</key>
+	<string>2540 Walnut Hill Ln, Dallas, TX 75229</string>
+	<key>Prairie View A&amp;M University</key>
+	<string>100 University Dr, Prairie View, TX 77446</string>
+	<key>Rice University</key>
+	<string>6100 Main St, Houston, TX 77005</string>
+	<key>Sam Houston State University</key>
+	<string>1905 University Ave, Huntsville, TX 77340</string>
+	<key>Schreiner University</key>
+	<string>2100 Memorial Blvd, Kerrville, TX 78028</string>
+	<key>Southern Methodist University</key>
+	<string>6101 Bishop Blvd, Dallas, TX 75205</string>
+	<key>Southwestern Adventist University</key>
+	<string>100 W Hillcrest St, Keene, TX 76059</string>
+	<key>Southwestern Assemblies of God University</key>
+	<string>1200 Sycamore St, Waxahachie, TX 75165</string>
+	<key>Southwestern University</key>
+	<string>1001 E University Ave, Georgetown, TX 78626</string>
+	<key>St. Edward&apos;s University</key>
+	<string>3001 S Congress Ave, Austin, TX 78704</string>
+	<key>St. Mary&apos;s University</key>
+	<string>1 Camino Santa Maria, San Antonio, TX 78228</string>
+	<key>Stephen F. Austin State University</key>
+	<string>2102 Alumni Dr, Nacogdoches, TX 75962</string>
+	<key>Sul Ross State University</key>
+	<string>79830 US-90, Alpine, TX 79830</string>
+	<key>Tarleton State University</key>
+	<string>1333 W Washington St, Stephenville, TX 76401</string>
+	<key>Texas A&amp;M International University</key>
+	<string>5201 University Blvd, Laredo, TX 78041</string>
+	<key>Texas A&amp;M University</key>
+	<string>400 Bizzell St, College Station, TX 77843</string>
+	<key>Texas A&amp;M University at Galveston</key>
+	<string>200 Seawolf Pkwy, Galveston, TX 77554</string>
+	<key>Texas A&amp;M University-Central Texas - KILLEEN</key>
+	<string>1001 Leadership Pl, Killeen, TX 76549</string>
+	<key>Texas A&amp;M University-Commerce</key>
+	<string>2200 Campbell St, Commerce, TX 75428</string>
+	<key>Texas A&amp;M University-Corpus Christi</key>
+	<string>6300 Ocean Dr, Corpus Christi, TX 78412</string>
+	<key>Texas A&amp;M University-Kingsville</key>
+	<string>700 University Blvd, Kingsville, TX 78363</string>
+	<key>Texas A&amp;M University-San Antonio</key>
+	<string>One University Way, San Antonio, TX 78224</string>
+	<key>Texas A&amp;M University-Texarkana</key>
+	<string>7101 University Ave, Texarkana, TX 75503</string>
+	<key>Texas Christian University</key>
+	<string>2800 S University Dr, Fort Worth, TX 76129</string>
+	<key>Texas Lutheran University</key>
+	<string>1000 W Court St, Seguin, TX 78155</string>
+	<key>Texas Southern University</key>
+	<string>3100 Cleburne St, Houston, TX 77004</string>
+	<key>Texas State University</key>
+	<string>601 University Dr, San Marcos, TX 78666</string>
+	<key>Texas Tech University</key>
+	<string>2500 Broadway, Lubbock, TX 79409</string>
+	<key>Texas Wesleyan University</key>
+	<string>1201 Wesleyan St, Fort Worth, TX 76105</string>
+	<key>Texas Woman&apos;s University</key>
+	<string>304 Administration Dr, Denton, TX 76204</string>
+	<key>The University of Texas - Rio Grande Valley - Edinburg</key>
+	<string>1201 W University Dr, Edinburg, TX 78539</string>
+	<key>The University of Texas at Arlington</key>
+	<string>701 S Nedderman Dr, Arlington, TX 76019</string>
+	<key>The University of Texas at Austin</key>
+	<string>Austin, TX 78712</string>
+	<key>The University of Texas at Dallas</key>
+	<string>800 W Campbell Rd, Richardson, TX 75080</string>
+	<key>The University of Texas at El Paso</key>
+	<string>500 W University Ave, El Paso, TX 79968</string>
+	<key>The University of Texas at San Antonio</key>
+	<string>1 UTSA Circle, San Antonio, TX 78249</string>
+	<key>The University of Texas at Tyler</key>
+	<string>3900 University Blvd, Tyler, TX 75799</string>
+	<key>The University of Texas Permian Basin</key>
+	<string>4901 E University Blvd, Odessa, TX 79762</string>
+	<key>Trinity University</key>
+	<string>1 Trinity Pl, San Antonio, TX 78212</string>
+	<key>University of Dallas</key>
+	<string>1845 E Northgate Dr, Irving, TX 75062</string>
+	<key>University of Houston</key>
+	<string>4800 Calhoun Rd, Houston, TX 77004</string>
+	<key>University of Houston-Clear Lake</key>
+	<string>2700 Bay Area Blvd, Houston, TX 77058</string>
+	<key>University of Houston-Downtown</key>
+	<string> 1 Main St, Houston, TX 77002</string>
+	<key>University of Houston-Victoria</key>
+	<string>3007 N Ben Wilson St, Victoria, TX 77901</string>
+	<key>University of Mary Hardin-Baylor</key>
+	<string>900 College St, Belton, TX 76513</string>
+	<key>University of North Texas</key>
+	<string>1155 Union Cir, Denton, TX 76203</string>
+	<key>University of North Texas at Dallas</key>
+	<string>7300 University Hills Blvd, Dallas, TX 75241</string>
+	<key>University of St. Thomas</key>
+	<string>3800 Montrose Blvd, Houston, TX 77006</string>
+	<key>University of The Incarnate Word</key>
+	<string>4301 Broadway, San Antonio, TX 78209</string>
+	<key>Wayland Baptist University</key>
+	<string>4110 Call Field Rd, Wichita Falls, TX 76308</string>
+	<key>West Texas A&amp;M University</key>
+	<string>2501 4th Ave, Canyon, TX 79016</string>
+</dict>
+</plist>
